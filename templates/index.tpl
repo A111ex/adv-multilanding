@@ -11,10 +11,10 @@
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
             <link href="img/pic2.png" rel="shortcut icon" type="image/x-icon" />
             <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css"/>
-            <link href="css/style.css" type="text/css" rel="stylesheet"/>
             <link rel="stylesheet" href="js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.2.7/css/swiper.min.css" />
             <link href="css/jquery.bxslider.css" rel="stylesheet" type="text/css" />
+            <link href="css/style.css" type="text/css" rel="stylesheet"/>
 
             <script src="http://code.jquery.com/jquery.min.js" type="text/javascript"></script>
             <script src="js/fancybox/jquery.fancybox.js" type="text/javascript"></script>
@@ -90,7 +90,7 @@
                 </div>
                 <div class="sep"></div>
                 <div class="services">
-                    <div class="title">Все наши услуги</div>
+                    <div class="title">Услуги для граждан</div>
                     {*SWIPER BEGIN*}
                     
                     <!-- Slider main container -->
@@ -115,7 +115,7 @@
                                 <div class="swiper-slide">
                                     <div class="card">
                                         <div class="cardimage">
-                                            <img src="img/usercart.png" alt="pic">
+                                            <img src="img/razdel-imustchestva.png" alt="раздел имущества">
                                         </div>
                                         <h4>Раздел имущества супругов</h4>
                                            <p>■ раздел при разводе<br/>
@@ -131,7 +131,7 @@
                                 <div class="swiper-slide">
                                     <div class="card">
                                         <div class="cardimage">
-                                            <img src="img/usercart.png" alt="pic">
+                                            <img src="img/spory-o-detyah.png" alt="pic">
                                         </div>
                                         <h4>Споры о детях</h4>
                                            <p>■ определение места жительства<br/>
@@ -147,7 +147,7 @@
                                 <div class="swiper-slide">
                                     <div class="card">
                                         <div class="cardimage">
-                                            <img src="img/usercart.png" alt="pic">
+                                            <img src="img/vipiska-visilenie.png" alt="pic">
                                         </div>
                                         <h4>Выписка и выселение</h4>
                                            <p>■ выписка без согласия<br/>
@@ -163,7 +163,7 @@
                                 <div class="swiper-slide">
                                     <div class="card">
                                         <div class="cardimage">
-                                            <img src="img/usercart.png" alt="pic">
+                                            <img src="img/zhilichnie-spory.png" alt="pic">
                                         </div>
                                         <h4>Жилищные споры</h4>
                                            <p>■ споры по муниципальному жилью<br/>
@@ -177,7 +177,7 @@
                                 <div class="swiper-slide">
                                     <div class="card">
                                         <div class="cardimage">
-                                            <img src="img/usercart.png" alt="pic">
+                                            <img src="img/spory-o-sobstvennosty.png" alt="pic">
                                         </div>
                                         <h4>Споры о собственности</h4>
                                            <p>■ сохранение пристроек<br/>
@@ -193,23 +193,7 @@
                                 <div class="swiper-slide">
                                     <div class="card">
                                         <div class="cardimage">
-                                            <img src="img/usercart.png" alt="pic">
-                                        </div>
-                                        <h4>Защита по уголовным делам</h4>
-                                           <p>■ защита по делам о краже, ограблении<br/>
-                                              ■ защита по делам о мошенничестве<br/>
-                                              ■ защита застройщиков<br/>
-                                              ■ защита по делам о присвоении, растрате<br/>
-                                              ■ защита по делам о взяточничестве<br/>
-                                              ■ защита по делам о нанесении телесных повреждений<br/>
-                                              ■ защита по делам о причинении смерти<br/>
-                                            </p>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card">
-                                        <div class="cardimage">
-                                            <img src="img/usercart.png" alt="pic">
+                                            <img src="img/pomoch-postradavchim.png" alt="pic">
                                         </div>
                                         <h4>Помощь потерпевшим</h4>
                                            <p>■ помощь на следствии<br/>
@@ -223,7 +207,7 @@
                             <div class="swiper-slide">
                                <div class="card">
                                    <div class="cardimage">
-                                       <img src="img/usercart.png" alt="pic">
+                                       <img src="img/ugolovnie-dela.png" alt="pic">
                                    </div>
                                    <h4>Защита по уголовным делам</h4>
                                       <p>■ защита по делам о краже, ограблении<br/>
@@ -239,7 +223,7 @@
                             <div class="swiper-slide">
                                <div class="card">
                                    <div class="cardimage">
-                                       <img src="img/usercart.png" alt="pic">
+                                       <img src="img/spory-s-zastoychikami.png" alt="pic">
                                    </div>
                                    <h4>Споры с застройщиками</h4>
                                       <p>■ при задержке строительства<br/>
@@ -253,7 +237,7 @@
                             <div class="swiper-slide">
                                <div class="card">
                                    <div class="cardimage">
-                                       <img src="img/usercart.png" alt="pic">
+                                       <img src="img/potrebitelskie-spory.png" alt="pic">
                                    </div>
                                    <h4>Потребительские споры</h4>
                                       <p>■ защита прав при покупке<br/>
@@ -268,7 +252,7 @@
                             <div class="swiper-slide">
                                <div class="card">
                                    <div class="cardimage">
-                                       <img src="img/usercart.png" alt="pic">
+                                       <img src="img/troodovie-spori.png" alt="pic">
                                    </div>
                                    <h4>Трудовые споры</h4>
                                       <p>■ взыскание зарплаты<br/>
@@ -298,7 +282,7 @@
                             <div class="swiper-slide">
                                <div class="card">
                                    <div class="cardimage">
-                                       <img src="img/usercart.png" alt="pic">
+                                       <img src="img/iscovie-zayavleniya.png" alt="pic">
                                    </div>
                                    <h4>Исковые заявления</h4>
                                       <p>■ о взыскании ...<br/>
@@ -316,7 +300,7 @@
                             <div class="swiper-slide">
                                <div class="card">
                                    <div class="cardimage">
-                                       <img src="img/usercart.png" alt="pic">
+                                       <img src="img/uchastie-v-sude.png" alt="pic">
                                    </div>
                                    <h4>Участие в суде</h4>
                                       <p>■ подача иска в суд<br/>
@@ -350,22 +334,6 @@
                             <div class="swiper-slide">
                                <div class="card">
                                    <div class="cardimage">
-                                       <img src="img/usercart.png" alt="pic">
-                                   </div>
-                                   <h4>Защита по уголовным делам</h4>
-                                      <p>■ защита по делам о краже, ограблении<br/>
-                                         ■ защита по делам о мошенничестве<br/>
-                                         ■ защита застройщиков<br/>
-                                         ■ защита по делам о присвоении, растрате<br/>
-                                         ■ защита по делам о взяточничестве<br/>
-                                         ■ защита по делам о нанесении телесных повреждений<br/>
-                                         ■ защита по делам о причинении смерти<br/>
-                                       </p>
-                               </div>
-                           </div>                           
-                            <div class="swiper-slide">
-                               <div class="card">
-                                   <div class="cardimage">
                                        <img src="img/osparivanie.png" alt="pic">
                                    </div>
                                    <h4>Оспаривание договоров и завещаний</h4>
@@ -379,23 +347,7 @@
                             <div class="swiper-slide">
                                <div class="card">
                                    <div class="cardimage">
-                                       <img src="img/usercart.png" alt="pic">
-                                   </div>
-                                   <h4>Защита по уголовным делам</h4>
-                                      <p>■ защита по делам о краже, ограблении<br/>
-                                         ■ защита по делам о мошенничестве<br/>
-                                         ■ защита застройщиков<br/>
-                                         ■ защита по делам о присвоении, растрате<br/>
-                                         ■ защита по делам о взяточничестве<br/>
-                                         ■ защита по делам о нанесении телесных повреждений<br/>
-                                         ■ защита по делам о причинении смерти<br/>
-                                       </p>
-                               </div>
-                           </div>                           
-                            <div class="swiper-slide">
-                               <div class="card">
-                                   <div class="cardimage">
-                                       <img src="img/usercart.png" alt="pic">
+                                       <img src="img/zemlyanie-spory.png" alt="pic">
                                    </div>
                                    <h4>Земельные споры</h4>
                                       <p>■ споры по меже<br/>
@@ -408,7 +360,7 @@
                             <div class="swiper-slide">
                                <div class="card">
                                    <div class="cardimage">
-                                       <img src="img/usercart.png" alt="pic">
+                                       <img src="img/nasledstvennie-spory.png" alt="pic">
                                    </div>
                                    <h4>Наследственные споры</h4>
                                       <p>■ принятие наследства через суд<br/>
@@ -422,16 +374,15 @@
                                </div>
                            </div> 
                         </div>
-                            <!- If we need pagination -->
-                            <div class="swiper-pagination"></div>
-
                             <!-- If we need navigation buttons -->
                             <div class="swiper-button-prev"></div>
                             <div class="swiper-button-next"></div>
                         </div>
+                            <!-- If we need pagination -->
+                            <div class="swiper-pagination"></div>
                     
                     
-                    <div class="service">
+                    {*<div class="service">
                         <div>
                             <div class="image"><img src="img/s1.png" alt="Услуга" /></div>
                             <div class="ttl">Раздел имущества</div>
@@ -487,7 +438,7 @@
                             <div class="ttl">Уголовные дела</div>
                         </div>
                         <div class="clear"></div>
-                    </div>
+                    </div>*}
                     <div class="sep"></div>
                     <div class="prof">
                         <div class="ttl"><a name="slide-1">Больше чем профессия</a></div>

@@ -347,7 +347,7 @@ body{
     font-size: 53px;
     text-align: center;
     color: #4f1d16;
-    padding: 0 0 25px;
+    padding: 0 0 15px;
     font-weight: bolder;
 }
 .services{
@@ -758,7 +758,9 @@ body{
 /******************************************/
 /*******Стили слайдеров услуг начало*******/
 /******************************************/
-
+.swiper-container{
+    padding-bottom: 10px;
+}
 .card{
     display: inline-block;
     /*    margin: 50px;*/
@@ -794,7 +796,6 @@ body{
     width: 180px;
 }
 .cardimage:not(hover){
-    opacity:0.45;
     transition: 0.2s;
     -webkit-transition-delay: 0.20s;
     -o-transition-delay: 0.20s;
@@ -839,6 +840,32 @@ body{
     -webkit-transition-delay: 0.3s;
     -o-transition-delay: 0.3s;
     transition-delay: 0.3s;
+}
+.swiper-container-horizontal>.swiper-pagination .swiper-pagination-bullet{margin: 0;}
+.swiper-pagination-bullet{
+    margin: 0 5px;
+    width: 15px;
+    height: 15px;
+}
+.swiper-pagination-bullet-active{
+    background-color: #4A2723;
+}
+.swiper-button-prev{
+    background:url(../img/left-ar.png) no-repeat;
+    left: 6px;
+}
+
+.swiper-button-prev:hover, .swiper-button-next:hover{
+    opacity:0.75;
+}
+.swiper-button-next{
+    background:url(../img/right-ar.png) no-repeat;
+    right: 6px;
+}
+
+.swiper-pagination{
+    width: 100%;
+    left: 0px;
 }
 
 /******************************************/
