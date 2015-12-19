@@ -86,7 +86,18 @@ $(function () {
       nextButton: '.swiper-button-next',
       prevButton: '.swiper-button-prev',
     })  
-
+    
+    var mySwiperTwo = new Swiper ('.swiper-container-two', {
+        // Optional parameters
+          direction: 'horizontal',
+          loop: true,
+          pagination: '.swiper-pagination-two',
+          paginationClickable: true,
+          slidesPerView: 3,
+          slidesPerGroup: 3,
+          nextButton: '.swiper-button-next-two',
+          prevButton: '.swiper-button-prev-two',
+    }) 
 });
 
 

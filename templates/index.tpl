@@ -91,7 +91,7 @@
                 <div class="sep"></div>
                 <div class="services">
                     <div class="title">Услуги для граждан</div>
-                    {*SWIPER BEGIN*}
+                    {*SWIPER 1 BEGIN*}
                     
                     <!-- Slider main container -->
                         <div class="swiper-container">
@@ -380,6 +380,160 @@
                         </div>
                             <!-- If we need pagination -->
                             <div class="swiper-pagination"></div>
+                    
+                    {*SWIPER 1 END*}
+                    
+                    
+                     <div class="title">Услуги для бизнесса</div>                   
+                    
+                    {*SWIPER 2 BEGIN*}
+                    
+                    <!-- Slider main container -->
+                        <div class="swiper-container-two">
+                            <!-- Additional required wrapper -->
+                            <div class="swiper-wrapper">
+                                <!-- Slides -->
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <div class="cardimage">
+                                            <img src="img/rastorzhenie-braka.png" alt="pic">
+                                        </div>
+                                            <h4>Взыскание задолженности</h4>
+                                            <p>■ расчет неустойки<br/>
+                                               ■ подготовка претензий<br/>
+                                               ■ взыскание долга в суде<br/>
+                                               ■ взыскание неустойки, процентов<br/>
+                                               ■ наложение ареста<br/>
+                                               ■ помощь при исполнении<br/>
+                                            </p>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <div class="cardimage">
+                                            <img src="img/razdel-imustchestva.png" alt="раздел имущества">
+                                        </div>
+                                        <h4>Арбитраж</h4>
+                                           <p>■ взыскание задолженности<br/>
+                                              ■ споры по договорам<br/>
+                                              ■ споры о собственности<br/>
+                                              ■ земельные споры<br/>
+                                              ■ неосновательное обогащение<br/>
+                                              ■ возмещение ущерба<br/>
+                                            </p>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <div class="cardimage">
+                                            <img src="img/spory-o-detyah.png" alt="pic">
+                                        </div>
+                                        <h4>Сопровождение бизнеса</h4>
+                                           <p>■ консультации<br/>
+                                              ■ проверка договоров<br/>
+                                              ■ подготовка договоров<br/>
+                                              ■ помощь в суде<br/>
+                                              ■ помощь при проверках<br/>
+                                            </p>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <div class="cardimage">
+                                            <img src="img/vipiska-visilenie.png" alt="pic">
+                                        </div>
+                                        <h4>Споры по поставке</h4>
+                                           <p>■ взыскание долгов, неустойки<br/>
+                                              ■ оспаривание договоров<br/>
+                                              ■ споры по качеству<br/>
+                                              ■ споры по ассортименту<br/>
+                                              ■ споры пр исполнению<br/>
+                                              ■ возмещение убытков<br/>
+                                            </p>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <div class="cardimage">
+                                            <img src="img/zhilichnie-spory.png" alt="pic">
+                                        </div>
+                                        <h4>Споры по подряду</h4>
+                                           <p>■ взыскание долгов, неустойки<br/>
+                                              ■ оспаривание договоров<br/>
+                                              ■ споры по качеству<br/>
+                                              ■ споры по срокам<br/>
+                                              ■ факт работ<br/>
+                                              ■ возмещение убытков<br/>
+                                            </p>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <div class="cardimage">
+                                            <img src="img/spory-o-sobstvennosty.png" alt="pic">
+                                        </div>
+                                        <h4>Споры по оказанию услуг</h4>
+                                           <p>■ взыскание долгов, неустойки<br/>
+                                              ■ оспаривание договоров<br/>
+                                              ■ споры по сроку<br/>
+                                              ■ споры по месту<br/>
+                                              ■ споры о предмете<br/>
+                                              ■ факт оказания услуг<br/>
+                                              ■ возмещение убытков<br/>
+                                            </p>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <div class="cardimage">
+                                            <img src="img/pomoch-postradavchim.png" alt="pic">
+                                        </div>
+                                        <h4>Споры по аренде</h4>
+                                           <p>■ расторжение договора<br/>
+                                              ■ взыскание арендной платы<br/>
+                                              ■ взыскание неустойки<br/>
+                                              ■ возврат имущества<br/>
+                                              ■ возмещение убытков
+                                            </p>
+                                    </div>
+                                </div>
+                            <div class="swiper-slide">
+                               <div class="card">
+                                   <div class="cardimage">
+                                       <img src="img/ugolovnie-dela.png" alt="pic">
+                                   </div>
+                                   <h4>Защита собственности</h4>
+                                      <p>■ оспаривание договоров<br/>
+                                         ■ признание собственности<br/>
+                                         ■ истребование имущества<br/>
+                                         ■ признание сделки действительной<br/>
+                                         ■ оспаривание условий сделки<br/>
+                                       </p>
+                               </div>
+                           </div>                           
+                            <div class="swiper-slide">
+                               <div class="card">
+                                   <div class="cardimage">
+                                       <img src="img/spory-s-zastoychikami.png" alt="pic">
+                                   </div>
+                                   <h4>Оспаривание проверок</h4>
+                                      <p>■ консультации<br/>
+                                         ■ оценка законности проверки<br/>
+                                         ■ оспаривание постановлений<br/>
+                                         ■ оспаривание актов<br/>
+                                         ■ отмена ареста<br/>
+                                         ■ возмещение ущерба<br/>
+                                       </p>
+                               </div>
+                           </div>                           
+                            <!-- If we need navigation buttons -->
+                            <div class="swiper-button-prev-two"></div>
+                            <div class="swiper-button-next-two"></div>
+                        </div>
+                            <!-- If we need pagination -->
+                            <div class="swiper-pagination-two"></div>
+                    
+                    {*SWIPER 2 END*}                 
                     
                     
                     {*<div class="service">

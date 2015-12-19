@@ -761,6 +761,12 @@ body{
 .swiper-container{
     padding-bottom: 10px;
 }
+.swiper-container-two{
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
 .card{
     display: inline-block;
     /*    margin: 50px;*/
@@ -850,7 +856,7 @@ body{
 .swiper-pagination-bullet-active{
     background-color: #4A2723;
 }
-.swiper-button-prev{
+.swiper-button-prev, .swiper-button-next-two{
     background:url(../img/left-ar.png) no-repeat;
     left: 6px;
 }
@@ -858,7 +864,7 @@ body{
 .swiper-button-prev:hover, .swiper-button-next:hover{
     opacity:0.75;
 }
-.swiper-button-next{
+.swiper-button-next, .swiper-button-next-two{
     background:url(../img/right-ar.png) no-repeat;
     right: 6px;
 }
@@ -871,6 +877,7 @@ body{
 /******************************************/
 /*******Стили слайдеров услуг конец********/
 /******************************************/
+
 @media screen and (max-width: 1000px){ 
     .header .about{
         margin: 0 0 0 5px;
