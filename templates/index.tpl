@@ -396,7 +396,7 @@
                                 <div class="swiper-slide">
                                     <div class="card">
                                         <div class="cardimage">
-                                            <img src="img/rastorzhenie-braka.png" alt="pic">
+                                            <img src="img/vzisk-zadolzh.png" alt="pic">
                                         </div>
                                             <h4>Взыскание задолженности</h4>
                                             <p>■ расчет неустойки<br/>
@@ -411,7 +411,7 @@
                                 <div class="swiper-slide">
                                     <div class="card">
                                         <div class="cardimage">
-                                            <img src="img/razdel-imustchestva.png" alt="раздел имущества">
+                                            <img src="img/arbitrazh.png" alt="раздел имущества">
                                         </div>
                                         <h4>Арбитраж</h4>
                                            <p>■ взыскание задолженности<br/>
@@ -426,7 +426,7 @@
                                 <div class="swiper-slide">
                                     <div class="card">
                                         <div class="cardimage">
-                                            <img src="img/spory-o-detyah.png" alt="pic">
+                                            <img src="img/soprovozhdenie-bisness.png" alt="pic">
                                         </div>
                                         <h4>Сопровождение бизнеса</h4>
                                            <p>■ консультации<br/>
@@ -440,7 +440,7 @@
                                 <div class="swiper-slide">
                                     <div class="card">
                                         <div class="cardimage">
-                                            <img src="img/vipiska-visilenie.png" alt="pic">
+                                            <img src="img/spori-po-postavke.png" alt="pic">
                                         </div>
                                         <h4>Споры по поставке</h4>
                                            <p>■ взыскание долгов, неустойки<br/>
@@ -500,7 +500,7 @@
                             <div class="swiper-slide">
                                <div class="card">
                                    <div class="cardimage">
-                                       <img src="img/ugolovnie-dela.png" alt="pic">
+                                       <img src="img/zatchita-sobstvennosti.png" alt="pic">
                                    </div>
                                    <h4>Защита собственности</h4>
                                       <p>■ оспаривание договоров<br/>
@@ -514,7 +514,7 @@
                             <div class="swiper-slide">
                                <div class="card">
                                    <div class="cardimage">
-                                       <img src="img/spory-s-zastoychikami.png" alt="pic">
+                                       <img src="img/osparivanie-proverok.png" alt="pic">
                                    </div>
                                    <h4>Оспаривание проверок</h4>
                                       <p>■ консультации<br/>
@@ -526,13 +526,13 @@
                                        </p>
                                </div>
                            </div>                           
+                        </div>
                             <!-- If we need navigation buttons -->
                             <div class="swiper-button-prev-two"></div>
                             <div class="swiper-button-next-two"></div>
-                        </div>
                             <!-- If we need pagination -->
                             <div class="swiper-pagination-two"></div>
-                    
+                        </div>    
                     {*SWIPER 2 END*}                 
                     
                     

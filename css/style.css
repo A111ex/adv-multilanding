@@ -856,12 +856,12 @@ body{
 .swiper-pagination-bullet-active{
     background-color: #4A2723;
 }
-.swiper-button-prev, .swiper-button-next-two{
+.swiper-button-prev,.swiper-button-prev-two{
     background:url(../img/left-ar.png) no-repeat;
     left: 6px;
 }
 
-.swiper-button-prev:hover, .swiper-button-next:hover{
+.swiper-button-prev:hover, .swiper-button-next:hover, .swiper-button-next-two:hover,.swiper-button-prev-two:hover{
     opacity:0.75;
 }
 .swiper-button-next, .swiper-button-next-two{
@@ -873,7 +873,20 @@ body{
     width: 100%;
     left: 0px;
 }
-
+.swiper-button-prev-two,.swiper-button-next-two{
+    position: absolute;
+    top: 50%;
+    width: 27px;
+    height: 44px;
+    margin-top: -22px;
+    z-index: 10;
+    cursor: pointer;
+    -moz-background-size: 27px 44px;
+    -webkit-background-size: 27px 44px;
+    background-size: 27px 44px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 /******************************************/
 /*******Стили слайдеров услуг конец********/
 /******************************************/
