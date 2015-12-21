@@ -766,6 +766,11 @@ body{
     position: relative;
     overflow: hidden;
     z-index: 1;
+    padding-bottom: 10px;
+    
+}
+.title-two{
+    margin-top: 20px;
 }
 .card{
     display: inline-block;

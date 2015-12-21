@@ -383,8 +383,8 @@
                     
                     {*SWIPER 1 END*}
                     
-                    
-                     <div class="title">Услуги для бизнесса</div>                   
+                    <div class="clear"></div>
+                    <div class="title title-two">Услуги для бизнесса</div>                   
                     
                     {*SWIPER 2 BEGIN*}
                     
@@ -455,7 +455,7 @@
                                 <div class="swiper-slide">
                                     <div class="card">
                                         <div class="cardimage">
-                                            <img src="img/zhilichnie-spory.png" alt="pic">
+                                            <img src="img/spori-po-podriadu.png" alt="pic">
                                         </div>
                                         <h4>Споры по подряду</h4>
                                            <p>■ взыскание долгов, неустойки<br/>
@@ -470,7 +470,7 @@
                                 <div class="swiper-slide">
                                     <div class="card">
                                         <div class="cardimage">
-                                            <img src="img/spory-o-sobstvennosty.png" alt="pic">
+                                            <img src="img/spori-po-okazaniu-uslug.png" alt="pic">
                                         </div>
                                         <h4>Споры по оказанию услуг</h4>
                                            <p>■ взыскание долгов, неустойки<br/>
@@ -486,7 +486,7 @@
                                 <div class="swiper-slide">
                                     <div class="card">
                                         <div class="cardimage">
-                                            <img src="img/pomoch-postradavchim.png" alt="pic">
+                                            <img src="img/spori-po-arende.png" alt="pic">
                                         </div>
                                         <h4>Споры по аренде</h4>
                                            <p>■ расторжение договора<br/>
@@ -530,9 +530,9 @@
                             <!-- If we need navigation buttons -->
                             <div class="swiper-button-prev-two"></div>
                             <div class="swiper-button-next-two"></div>
+                        </div>    
                             <!-- If we need pagination -->
                             <div class="swiper-pagination-two"></div>
-                        </div>    
                     {*SWIPER 2 END*}                 
                     
                     
