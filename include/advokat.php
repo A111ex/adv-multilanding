@@ -1,26 +1,8 @@
 <?php
 
-//switch ($utm_content) {
-//    case ($utm_content == 'advokat-krasnodar'): $h1 = "Грамотная юридическая помощь в Краснодаре<br>Адвокаты и юристы.";
-//        break;
-//    case ($utm_content == 'yuridicheskie-uslugi'): $h1 = "Грамотная юридическая помощь в Краснодаре<br>Адвокаты и юристы.";
-//        break;
-//    case ($utm_content == 'grazhdanskij-advokat'): $h1 = "Юридическая помощь<br>по гражданским делам в Краснодаре";
-//        break;
-//    case ($utm_content == 'semejnyj-advokat'): $h1 = "Юридическая помощь<br>по семейным делам в Краснодаре";
-//        break;
-//    case ($utm_content == 'zhilishchnyj-advokat'): $h1 = "Юридическая помощь<br>по жилищным делам в Краснодаре";
-//        break;
-//    case ($utm_content == 'arbitrazhnyj-advokat'): $h1 = "Юридическая помощь бизнесу<br>по арбитражным делам в Краснодаре";
-//        break;
-//
-//    default:$h1 = "Грамотная юридическая помощь в Краснодаре<br>Адвокаты и юристы.";
-//        break;
-//}
-
 $arResult = array(
     'title' => "Юридическая помощь адвоката Епифановой <br><span>в Краснодаре</span>",
-    'oneH' => "<div class='t1'>Консультация бесплатно</div>",
+    'oneH' => "<div class='t1'>Полная консультация</div>",
     'twoH' => "<div class='t2'>Оценка перспектив дела</div>",
     'questions_title' => "10 самых частых вопросов адвокату",
     'questions' => array(
