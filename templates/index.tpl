@@ -32,8 +32,8 @@
                     <div class="hd">
                         <div class="adress">г.Краснодар,<br />
                             Фестивальный м/н<br />
-                            ул. Монтажников д.1<br />
-                            3 подъезд, 3 этаж, оф. №1
+                            ул. Монтажников 1/1<br />
+{*                            3 подъезд, 3 этаж, оф. №1*}
                             {*<div class="shema">Схема проезда</div>*}
                             <div class="shema"><a href="#map" class='fancybox flex'>Схема проезда</a></div>
                         </div>
@@ -642,7 +642,7 @@
                     </div>
                     <div class="sep"></div>
                     <div class="reviews">
-                        <div class="title"><a name="slide-3">Отзывы наших клиентов</a></div>
+                        <div class="title"><a name="slide-3">Отзывы граждан</a></div>
                         <div class="review">
                             <div>
                                 <div class="image"><img src="img/stor-l.jpg" alt="Фото" />
@@ -675,17 +675,17 @@
                                     <div class="ttl">Благодаря ей моя семья вернула уплаченные за квартиру деньги</div>
                                     <div class="text">Моя семья попала в жуткую ситуацию с покупкой квартиры. Купленную нами квартиру продали другим, а продавец наотрез отказался возвращать деньги и наши расходы. Мне посоветовали адвоката Епифанову. Благодаря ей моя семья вернула уплаченные за квартиру деньги через суд.<br />
                                         &nbsp;&nbsp;Я ни разу не пожалела, что обратилась к этому адвокату. Всех благ ей!</div>
-                                </div>
+                                </div>c
                             </div>
                         </div>
                         <div class="review">
                             <div>
                                 <div class="image"><img src="img/voloshin-l.jpg" alt="Фото" />
-                                    <div class="name">Волошин Матвей Викторович,<br /> 37 лет.</div>
+                                    <div class="name">Волошин Матвей Викторович,<br />8-918-444-27-57</div>
                                 </div>
                                 <div class="descr">
                                     <div class="ttl">Они небезразличны к простым людям, которые оказались в трудной жизненной ситуации.</div>
-                                    <div class="text">Я обратился за оказанием услуг к специалистам адвокатского кабинета Епифановой и удивился, насколько быстро и профессионально были подготовлены обосновывающие документы. Я высоко оцениваю труд и преданность этих адвокатов своей профессии, они небезразличны к простым людям, которые оказались в трудной жизненной ситуации. Хотелось бы отметить оперативное реагирование на все возникающие в процессе работы нюансы. Особо отмечаю живое человеческое участие и заинтересованность в достижении результата. Мой вопрос был разрешен положительно, и я выражаю искреннюю благодарность за то, что среди многочисленных юристов и адвокатов есть такие такие профессионалы, преданные своему делу.<br />
+                                    <div class="text">Я обратился за оказанием услуг к специалистам адвокатского кабинета Епифановой и удивился, насколько быстро и профессионально были подготовлены обосновывающие документы. Я высоко оцениваю труд и преданность этих адвокатов своей профессии, они небезразличны к простым людям, которые оказались в трудной жизненной ситуации.<br />
                                     </div>
                                 </div>
                             </div>
@@ -693,7 +693,7 @@
                         <div class="clear"></div>
                     </div>
                     <div class="uspeh">
-                        <div class="title">Наши награды и успехи</div>
+                        <div class="title">Отзывы бизнеса</div>
                         
                         <div class="uspehin ">
                             <div class="arl"></div>
@@ -701,20 +701,20 @@
                             <div class="slider1">
                                 <div class="item slide">
                                     <div>
-                                        <div class="image"><a href="img/IMG_4303.JPG" class="fancybox"><img src="img/medal_small.jpg" alt="Медаль За заслуги" /></a></div>
-                                        <div class="txt">Медаль <br />«За заслуги»</div>
+                                        <div class="image"><a href="img/carkin-b.jpg" class="fancybox"><img src="img/carkin-s.jpg" alt="ИП Чаркин В.В. Взыскали долг по услугам" /></a></div>
+                                        <div class="txt">ИП Чаркин В.В.<br />Взыскали долг по услугам</div>
                                     </div>
                                 </div>
                                 <div class="item slide">
                                     <div>
-                                        <div class="image"><a href="img/2014-big.jpg" class="fancybox"><img src="img/2014-small.jpg" alt="Альманах Золотые страницы 2012" /></a></div>
-                                        <div class="txt">Альманах «Золотые страницы 2012»</div>
+                                        <div class="image"><a href="img/Layout058.jpg" class="fancybox"><img src="img/veles-small.jpg" alt="Альманах Золотые страницы 2012" /></a></div>
+                                        <div class="txt">ООО «Вилес»<br />Взыскали долг по аренде</div>
                                     </div>
                                 </div>
                                 <div class="item slide">
                                     <div>
-                                        <div class="image"><a href="img/mozza.jpg" class="fancybox"><img src="img/u4.jpg" alt="Альманах Золотые страницы 2014" /></a></div>
-                                        <div class="txt">Альманах «Золотые страницы 2014»</div>
+                                        <div class="image"><a href="img/Layout056.jpg" class="fancybox"><img src="img/agro-small.jpg" alt="Альманах Золотые страницы 2014" /></a></div>
+                                        <div class="txt">ООО «АгроМаркет»<br />Взыскали долг по поставке</div>
                                     </div>
                                 </div>
                             </div>
